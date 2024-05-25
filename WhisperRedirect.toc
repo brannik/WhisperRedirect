@@ -1,0 +1,6 @@
+﻿## Interface: 30300
+## Title: |cff7fff7f -PM Redirect-|r
+## Version: 0.0.1
+## Author: Agset
+
+WhisperRedirect.lua
