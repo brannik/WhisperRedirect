@@ -1,5 +1,5 @@
 ﻿local allowedCharacterToActivate = "Alchemysta"
-local targets = {"Agset", "Agsett", "Agsetd","Pewpewhot","Chuknoris","Assasinscrew","Blmaster","Arowshot"}
+local targets = {"Agset", "Agsett", "Agsetd","Pewpewhot","Chuknoris","Assasinscrew","Blmaster","Arowshot","Agsetw"}
 
 
 local function findFirstOnlineTargetWithDelay(targetss,sender,message)
