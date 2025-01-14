@@ -1,5 +1,5 @@
-﻿local allowedCharacterToActivate = "Alchemysta"
-local targets = {"Agset", "Agsett", "Agsetd","Pewpewhot","Chuknoris","Assasinscrew","Blmaster","Arowshot","Agsetw"}
+﻿local allowedCharacterToActivate = "" -- char to recieve send te whisper aka the recruiter
+local targets = {"Char 1","Char 2"} -- reciever character
 
 
 local function findFirstOnlineTargetWithDelay(targetss,sender,message)
